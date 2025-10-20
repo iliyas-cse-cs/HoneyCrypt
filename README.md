@@ -49,3 +49,7 @@ pip install -r requirements.txt
 python app.py
 
 Then open your browser and navigate to http://127.0.0.1:5000/
+
+🧠 Inspiration
+
+Inspired by Cicada 3301 puzzle aesthetics and honey encryption research, this project blends cryptography with interactive visualization for educational and security research purposes.
