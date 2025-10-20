@@ -33,14 +33,19 @@ If valid → ✅ Real login
 If invalid → 🍯 Honey mode triggers silently
 
 This leverages the **hardness of discrete logarithm** problems for security.
-## 🚀 Getting Started
 
-### 1️⃣ Install dependencies
-```bash
-pip install flask
-2️⃣ Run the app
-bash
-Copy code
+1️⃣ Clone the Repository
+git clone https://github.com/<your-username>/honeycrypt.git
+cd honeycrypt
+
+2️⃣ Install Requirements
+pip install -r requirements.txt
+
+3️⃣ Run the Application
 python app.py
-Visit http://localhost:5000
- in your browser.
+
+Then open your browser and navigate to http://127.0.0.1:5000/
+
+📜 License
+
+This project is released under the MIT License
