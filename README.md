@@ -33,3 +33,14 @@ If valid → ✅ Real login
 If invalid → 🍯 Honey mode triggers silently
 
 This leverages the **hardness of discrete logarithm** problems for security.
+## 🚀 Getting Started
+
+### 1️⃣ Install dependencies
+```bash
+pip install flask
+2️⃣ Run the app
+bash
+Copy code
+python app.py
+Visit http://localhost:5000
+ in your browser.
