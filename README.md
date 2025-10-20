@@ -35,13 +35,17 @@ If invalid → 🍯 Honey mode triggers silently
 This leverages the **hardness of discrete logarithm** problems for security.
 
 1️⃣ Clone the Repository
+
 git clone https://github.com/<your-username>/honeycrypt.git
+
 cd honeycrypt
 
 2️⃣ Install Requirements
+
 pip install -r requirements.txt
 
 3️⃣ Run the Application
+
 python app.py
 
 Then open your browser and navigate to http://127.0.0.1:5000/
