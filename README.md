@@ -36,7 +36,7 @@ This leverages the **hardness of discrete logarithm** problems for security.
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/<your-username>/honeycrypt.git
+git clone https://github.com/iliyas-cse-cs/HoneyCrypt.git
 
 cd honeycrypt
 
