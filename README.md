@@ -38,7 +38,7 @@ This leverages the **hardness of discrete logarithm** problems for security.
 
 git clone https://github.com/iliyas-cse-cs/HoneyCrypt.git
 
-cd HoneyCrypt
+cd theory
 
 2️⃣ Install Requirements
 
